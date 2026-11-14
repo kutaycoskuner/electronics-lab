@@ -1,2 +1,2 @@
-# elecronics-lab
+# electronics-lab
 electronics study repository
